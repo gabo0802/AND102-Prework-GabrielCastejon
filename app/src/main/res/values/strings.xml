@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld-AND102Prework</string>
+    <string name="gaboIntro">Hello My Name is Gabriel and this is my Pre-Work!</string>
+    <string name="say_hello">Say Hello!</string>
+</resources>
